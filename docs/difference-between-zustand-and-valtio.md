@@ -2,7 +2,7 @@
 
 Ref: https://github.com/pmndrs/zustand/issues/483
 
-## The major difference is: zustand is immutable state model, whereas valtio is mutable state model.
+## The major difference is: zustand's state model is immutable, whereas valtio' is mutable.
 
 ```js
 import create from 'zustand'
